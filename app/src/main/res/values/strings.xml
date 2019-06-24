@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirst</string>
+    <string name="button">Button</string>
+    <string name="hello_android">Hello Android jjjjjjj!</string>
+    <string name="click">Click</string>
+    <string name="new_text">this text is new</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="tv_pink">pink</string>
+    <string name="tv_green">green</string>
+</resources>
